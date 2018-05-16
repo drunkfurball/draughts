@@ -1,0 +1,9 @@
+body {
+	font-size: 100%;
+}
+
+.black {
+	background-color: black;
+	color: white;
+	font-size: 2em;
+}
